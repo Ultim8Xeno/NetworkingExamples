@@ -7,6 +7,6 @@ outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
 include "Renderer"
 
-include "Server"
+include "Networking"
 
 include (application)

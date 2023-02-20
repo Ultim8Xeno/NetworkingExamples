@@ -1,0 +1,6 @@
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/Ultim8Xeno/Networking
+[submodule "Renderer"]
+	path = Renderer
+	url = https://github.com/Ultim8Xeno/2DOpenGLRenderer
