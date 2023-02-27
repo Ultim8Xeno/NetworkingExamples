@@ -1,5 +1,6 @@
 workspace "Networking"
     architecture "x86_64"
+    startproject "Server"
     configurations { "Debug", "Release" }
 
 application = "Examples"
